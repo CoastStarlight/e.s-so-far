@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Actual ElectroScience Game",
+"productVersion": "0.1",
+"dataUrl": "1web build.data.unityweb",
+"wasmCodeUrl": "1web build.wasm.code.unityweb",
+"wasmFrameworkUrl": "1web build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
